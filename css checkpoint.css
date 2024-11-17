@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#navbar {
+    text-align: center;
+    border: 1px , solid , rgb(167, 64, 64);
+    width: 100%;
+}
+.links {
+    text-decoration: none;
+    color: rgb(199, 58, 39);
+    padding-inline-start: 20px;
+}
+#body {
+    font-family: "roboto" , sans-serif;
+}
